@@ -4,6 +4,7 @@ class Student{
 
           System.out.println("Welcome to GIT");
 	  System.out.println("Feature2 in progress");
+	  System.out.println("Feature2 in middle");
  
  }
 
